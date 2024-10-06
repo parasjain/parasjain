@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @parasjain
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and advance SQL
+- 🌱 I’m currently learning Python and Advance SQL
 - 📫 Reach me at pj.paras0@gmail.com
